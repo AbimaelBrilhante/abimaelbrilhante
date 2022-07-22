@@ -84,8 +84,10 @@
   }
   
   .section-header {
-    color: #019875;
+    color:#155d81;
+    ;
     font-family: Inconsolata;
+    padding-left: -10%;
   }
   
   h4 {margin: 1rem 0 1rem 0;}
@@ -93,16 +95,17 @@
   .section-content {
     color: #333;
     margin-bottom: 2rem;
+    padding-right: 5%;
   }
   
   li {
     list-style: none;
-    margin: 0 0 1rem 0;
+    margin: 0 0 1rem 10px;
   }
   
   .project-link {
     text-decoration: none;
-    color: #444;
+    color: #1E8BC3;
     font-weight: bolder;
     font-size: 1.05rem;
     margin-bottom: 1rem;
