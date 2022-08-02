@@ -10,7 +10,8 @@
   
   .fixed-panel {
     height: 100vh;
-    background: #1E8BC3;
+    /**background: #1E8BC3;**/
+    background-image: url(background-blue.svg);
     display: flex;
     flex-direction: column;
   }
