@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelbrilhante&layout=compact&theme=dark)](https://github.com/abimaelbrilhante/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm abimaelbrilhante</h1>
 <h3 align="center"></h3>
 
