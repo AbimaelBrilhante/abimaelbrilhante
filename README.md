@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm abimaelbrilhante</h1>
+<h1 align="center">abimaelbrilhante</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abimaelbrilhante&label=Profile%20views&color=0e75b6&style=flat" alt="abimaelbrilhante" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abimaelbrilhante" alt="abimaelbrilhante" /></a> </p>
-
-- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://abimaelbrilhante.github.io/abimaelbrilhante/](https://abimaelbrilhante.github.io/abimaelbrilhante/)
 
