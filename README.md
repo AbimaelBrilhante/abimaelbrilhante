@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Abimael Brilhante! 👋
 
-<!--
-**AbimaelBrilhante/abimaelbrilhante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 ERP Data Analyst | SAP & Snowflake Specialist | Accounting Background
 
-Here are some ideas to get you started:
+I am a data professional with a unique "hybrid" background, combining a **Bachelor’s in Accounting (UECE)** with a degree in **Systems Analysis and Development (ADS)**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in bridging the gap between complex financial/tax business rules and technical data solutions. My focus is on the **Backend of Data Architecture**, ensuring that what is recorded in the ERP (SAP) is 100% accurate and audit-ready in the Data Warehouse (Snowflake).
+
+---
+
+### 🛠️ Technical Toolbox
+
+- **ERP:** SAP S/4HANA (Power User in FI, MM, SD modules).
+- **Data Warehousing:** Snowflake (Advanced SQL, Views, Data Modeling).
+- **BI & Analytics:** Qlik Sense & QlikView (Expert in Scripting and QVD Architecture).
+- **Programming:** SQL (Advanced), Python (Pandas for ETL), VBA.
+- **Languages:** Portuguese (Native), English (B1/B2 - Professional Technical), Spanish (B1).
+
+---
+
+### 🚀 What I do best:
+
+- **Data Integrity:** Transforming raw, messy ERP data into "Single Source of Truth" environments.
+- **Audit Automation:** Replacing manual reconciliation with automated SQL and Python routines.
+- **Accounting & Tech Liaison:** Translating complex tax and financial requirements into high-performance data pipelines.
+
+---
+
+### 📫 How to reach me:
+
+- 📧 Email: abimaelabs@gmail.com
+- 💼 [LinkedIn] https://www.linkedin.com/in/abimael-brilhante-a5165b103/
+- 📍 Based in Fortaleza, Brazil | Relocating to **Hamburg, Germany** (Late 2026)
+
+---
+*"I believe that data is only as good as the logic behind it."*
