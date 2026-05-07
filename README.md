@@ -1,4 +1,4 @@
-# Hi, I'm Abimael Brilhante! 👋
+# Hi, I'm Abimael Brilhante! 
 
 ### 📊 ERP Data Analyst | SAP & Snowflake Specialist | Accounting Background
 
