@@ -14,7 +14,7 @@ I specialize in bridging the gap between complex financial/tax business rules an
 - **Data Warehousing:** Snowflake (Advanced SQL, Views, Data Modeling).
 - **BI & Analytics:** Qlik Sense & QlikView (Expert in Scripting and QVD Architecture).
 - **Programming:** SQL (Advanced), Python (Pandas for ETL), VBA.
-- **Languages:** Portuguese (Native), English (B1/B2 - Professional Technical), Spanish (B1).
+- **Languages:** Portuguese (Native), English (B1 - Professional Technical), Spanish (B2).
 
 ---
 
