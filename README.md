@@ -1,6 +1,6 @@
 # Hi, I'm Abimael Brilhante! 
 
-### 📊 ERP Data Analyst | SAP & Snowflake Specialist | Accounting Background
+### 📊 SAP Data Analyst | ERP (FI/MM) | SQL & Snowflake | ETL | Accounting Background
 
 I am a data professional with a unique "hybrid" background, combining a **Bachelor’s in Accounting (UECE)** with a degree in **Systems Analysis and Development (ADS)**. 
 
@@ -12,7 +12,7 @@ I specialize in bridging the gap between complex financial/tax business rules an
 
 - **ERP:** SAP S/4HANA (Power User in FI, MM, SD modules).
 - **Data Warehousing:** Snowflake (Advanced SQL, Views, Data Modeling).
-- **BI & Analytics:** Qlik Sense & QlikView (Expert in Scripting and QVD Architecture).
+- **BI & Analytics:** Qlik Sense & QlikView (Expert in Scripting, QVD Architecture and Set Analysis).
 - **Programming:** SQL (Advanced), Python (Pandas for ETL), VBA.
 - **Languages:** Portuguese (Native), English (B1 - Professional Technical), Spanish (B2).
 
