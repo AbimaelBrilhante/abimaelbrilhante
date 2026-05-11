@@ -30,7 +30,7 @@ I specialize in bridging the gap between complex financial/tax business rules an
 
 - 📧 Email: abimaelabs@gmail.com
 - 💼 [LinkedIn] https://www.linkedin.com/in/abimael-brilhante-a5165b103/
-- 📍 Based in Fortaleza, Brazil | Relocating to **Hamburg, Germany** (Late 2026)
+- 📍 Based in Fortaleza, Brazil | Relocating to **Berlin, Germany** (Late 2026)
 
 ---
 *"I believe that data is only as good as the logic behind it."*
