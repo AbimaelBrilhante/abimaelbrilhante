@@ -37,7 +37,7 @@ I specialize in acting as the **ultimate bridge between complex financial/tax bu
   * *Description:* Automated Financial Trial Balance (*Balancete*) engine using Snowflake Dynamic Tables. Transforms SAP S/4HANA **ACDOCA** raw data into snapshot-based YTD financial statements.
   * *Keywords:* Snowflake, SAP S/4HANA, Data Modeling, Financial Statements.
 
-* **[sap-snowflake-fiscal-engine](https://github.com/AbimaelBrilhante/sap-snowflake-fiscal-engine)**
+* **[sap-snowflake-fiscal-engine-with-dbt](https://github.com/AbimaelBrilhante/sap-snowflake-fiscal-engine)**
   * *Description:* High-performance SQL engine for SAP S/4HANA data offloading to Snowflake. Focused on fiscal master data and performance optimization.
   * *Keywords:* SQL Optimization, SAP Data Offloading, Analytics Engineering.
 
