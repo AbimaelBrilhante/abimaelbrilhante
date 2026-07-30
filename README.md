@@ -33,6 +33,10 @@ I specialize in acting as the **ultimate bridge between complex financial/tax bu
 
 ### 📊 Modern Data Stack & SAP Engineering
 
+* **[rtc-cbs-api-extractor](https://github.com/AbimaelBrilhante/rtc-cbs-api-extractor)**
+  * *Description:* Automated ETL pipeline integrating with the Brazilian Tax Authority (Receita Federal) API to securely extract and process CBS tax data under the new Tax Reform (RTC).
+  * *Keywords:* Python, REST API, Tax Technology, Data Engineering.
+
 * **[snowflake-dynamic-financial-statements](https://github.com/AbimaelBrilhante/snowflake-dynamic-financial-statements)**
   * *Description:* Automated Financial Trial Balance (*Balancete*) engine using Snowflake Dynamic Tables. Transforms SAP S/4HANA **ACDOCA** raw data into snapshot-based YTD financial statements.
   * *Keywords:* Snowflake, SAP S/4HANA, Data Modeling, Financial Statements.
