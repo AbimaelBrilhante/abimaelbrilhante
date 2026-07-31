@@ -6,7 +6,7 @@ I am a data professional with a unique, high-value hybrid background: a **Bachel
 
 I specialize in acting as the **ultimate bridge between complex financial/tax business logic and technical data infrastructure**. My focus is on the backend of the Modern Data Stack—ensuring that massive, messy operational data from ERPs (SAP) is seamlessly extracted, sanitized, modeled (using dbt), and transformed into a reliable "Single Source of Truth" inside Cloud Data Warehouses.
 
-📍 **Based in Brazil | Actively Relocating to Berlin, Germany** 🇧🇷 ➡️ 🇩🇪
+📍 **Based in Brazil | Actively Relocating to Germany** 🇧🇷 ➡️ 🇩🇪
 
 ---
 
