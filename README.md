@@ -33,7 +33,7 @@ I specialize in acting as the **ultimate bridge between complex financial/tax bu
 
 ### 📊 Modern Data Stack & SAP Engineering
 
-* **[rtc-cbs-api-extractor]([https://github.com/AbimaelBrilhante/rtc-cbs-api-extractor](https://github.com/AbimaelBrilhante/rtc-cbs-extractor))**
+* **[rtc-cbs-api-extractor]((https://github.com/AbimaelBrilhante/rtc-cbs-extractor))**
   * *Description:* Automated ETL pipeline integrating with the Brazilian Tax Authority (Receita Federal) API to securely extract and process CBS tax data under the new Tax Reform (RTC).
   * *Keywords:* Python, REST API, Tax Technology, Data Engineering.
 
