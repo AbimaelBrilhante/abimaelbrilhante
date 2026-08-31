@@ -1,64 +1,71 @@
 # Hi, I'm Abimael Brilhante! 👋
 
-### 🚀 Analytics Engineer | Tax & Financial Data Specialist | SAP Key User
+### Analytics Engineer | Tax Data Analyst | SAP & Financial Data Specialist
 
-I am a data professional with a unique, high-value hybrid background: a **Bachelor's in Accounting (UECE)** combined with a **Degree in Systems Analysis and Development (ADS)**. 
+I am a data professional with a background that combines **Accounting**, **tax operations**, and **data analytics**. After progressing through tax roles, I moved into projects and systems, where I now turn complex fiscal and financial business rules into practical data solutions.
 
-I specialize in acting as the **ultimate bridge between complex financial/tax business logic and technical data infrastructure**. My focus is on the backend of the Modern Data Stack—ensuring that massive, messy operational data from ERPs (SAP) is seamlessly extracted, sanitized, modeled (using dbt), and transformed into a reliable "Single Source of Truth" inside Cloud Data Warehouses.
+My strongest area is the intersection of **Tax + SAP + Data**: understanding the business problem, identifying the relevant ERP data, building SQL transformations and analytical datasets, and delivering information through Snowflake, Python automation, and Qlik Sense.
 
-📍 **Based in Brazil | Actively Relocating to Germany** 🇧🇷 ➡️ 🇩🇪
-
----
-
-## 🛠️ Technical Toolbox
-
-* **Programming & Scripting:** `SQL (Advanced - Window Functions, CTEs)`, `Python (Pandas, NumPy)`, `VBA`
-* **Data Transformation & Engineering:** `dbt (Data Build Tool)`, `ETL/ELT Pipelines`, `Data Sanitization & QA`, `Git/GitHub`
-* **Databases & Data Warehousing:** `Snowflake`, `SQLite`, `SQL Server`, `Redshift`
-* **ERP Domain Expertise:** `SAP S/4HANA (Power User & Functional Testing in FI, MM, SD modules)`
-* **BI & Data Visualization:** `QlikSense (Advanced Scripting & QVD Architecture)`, `Looker Studio`, `Power BI`
+📍 **Based in Brazil | Open to relocation to Germany** 🇧🇷 ➡️ 🇩🇪
 
 ---
 
-## ⚡ What I Do Best
+## 🛠️ Core Stack
 
-* **Data Integrity & Quality Assurance:** Turning chaotic ERP ledger entries and raw fiscal datasets into clean, optimized, and auditable corporate data structures.
-* **Modern Analytics Engineering:** Applying modularity, documentation, and software engineering best practices to data pipelines inside Snowflake and Redshift cloud environments.
-* **Audit & Process Automation:** Replacing legacy, error-prone manual routines with optimized Python scripts and automated SQL validation engines, saving 40+ hours of corporate work per month.
-* **Tech & Business Liaison:** Discussing development concepts at eye level with Data Engineering teams while maintaining an unwavering attention to financial compliance and business strategy.
+* **Data & Querying:** `SQL`, `Snowflake`, `SQLite`, `Data Modeling`, `ETL/ELT`
+* **Programming & Automation:** `Python (Pandas, Requests, OpenPyXL, Tkinter)`, `VBA`, `REST APIs`
+* **ERP & Domain:** `SAP Data`, `Tax/Fiscal Processes`, `Accounting`, `Financial Data`, `UAT / Functional Validation`
+* **Analytics & BI:** `Qlik Sense`, `Qlik Scripting`, `KPIs`, `Dashboards`
+* **Learning / Personal Projects:** `dbt`, `Git/GitHub`
 
 ---
 
-## 📁 Featured Data Projects
+## What I Do
 
-### 📊 Modern Data Stack & SAP Engineering
+* Translate tax and financial requirements into data models, SQL transformations, validation rules, and analytical outputs.
+* Work with SAP fiscal and accounting data to create reusable datasets for reporting, reconciliation, and audit-oriented analysis.
+* Build Python and SQLite automations for high-volume operational processes and self-service analysis.
+* Develop Qlik Sense dashboards and data models that turn complex datasets into actionable information for business users.
+* Bridge business and technical teams by combining long-term tax domain knowledge with hands-on data skills.
 
-* **[rtc-cbs-api-extractor](https://github.com/AbimaelBrilhante/rtc-cbs-extractor)**
-  * *Description:* Automated ETL pipeline integrating with the Brazilian Tax Authority (Receita Federal) API to securely extract and process CBS tax data under the new Tax Reform (RTC).
-  * *Keywords:* Python, REST API, Tax Technology, Data Engineering.
+---
 
-* **[snowflake-dynamic-financial-statements](https://github.com/AbimaelBrilhante/snowflake-dynamic-financial-statements)**
-  * *Description:* Automated Financial Trial Balance (*Balancete*) engine using Snowflake Dynamic Tables. Transforms SAP S/4HANA **ACDOCA** raw data into snapshot-based YTD financial statements.
-  * *Keywords:* Snowflake, SAP S/4HANA, Data Modeling, Financial Statements.
+## 📁 Selected Projects
 
-* **[sap-snowflake-fiscal-engine-with-dbt](https://github.com/AbimaelBrilhante/sap-snowflake-fiscal-engine)**
-  * *Description:* High-performance SQL engine for SAP S/4HANA data offloading to Snowflake. Focused on fiscal master data and performance optimization.
-  * *Keywords:* SQL Optimization, SAP Data Offloading, Analytics Engineering.
+### Tax, SAP & Analytics Engineering
 
-* **[xml-data-pipeline-py](https://github.com/AbimaelBrilhante/xml-data-pipeline-py)**
-  * *Description:* Automated ETL pipeline to parse, store, and report Brazilian Tax Documents (NF-e/CT-e) using Python, SQLite, and Pandas.
-  * *Keywords:* Python, ETL, Data Sanitization, Tax Technology.
+* **[Brazilian Tax Reform – CBS API Extractor](https://github.com/AbimaelBrilhante/rtc-cbs-extractor)**
+  * Python project for interacting with Receita Federal's tax-reform API workflow, including authentication, asynchronous requests, webhook-based processing, and JSON retrieval.
+  * `Python` · `REST API` · `Tax Technology`
 
-### 📈 Enterprise Business Intelligence & Analytics
+* **[SAP Financial Snapshot Engine](https://github.com/AbimaelBrilhante/snowflake-dynamic-financial-statements)**
+  * Snowflake/SQL portfolio project that transforms SAP S/4HANA financial data into cumulative YTD balances using window functions and Dynamic Tables.
+  * `Snowflake` · `SQL` · `SAP ACDOCA` · `Financial Data`
 
-* **[qlik-sense-data-architecture-erp](https://github.com/AbimaelBrilhante/qlik-sense-data-architecture-erp)**
-  * *Description:* Advanced Qlik Sense ETL and Data Modeling for SAP environments. Focused on QVD layering, Star Schema optimization, and complex data associations.
-  * *Keywords:* Qlik Sense, Data Architecture, Star Schema, SAP ERP.
+* **[SAP + Snowflake Fiscal Modeling with dbt](https://github.com/AbimaelBrilhante/sap-snowflake-fiscal-engine-with-dbt)**
+  * **Personal learning project** exploring dbt concepts with SAP fiscal data, including staging models, marts, documentation, and schema tests. dbt is not part of my current professional production environment.
+  * `dbt` · `Snowflake` · `SQL` · `SAP`
 
-* **[qlik-logistics-performance-benchmarking](https://github.com/AbimaelBrilhante/qlik-logistics-performance-benchmarking)**
-  * *Description:* Logistics Performance & Freight Audit Dashboard developed in Qlik Sense. Features carrier benchmarking (Cost vs. Lead Time) and OTIF monitoring for supply chain optimization.
-  * *Keywords:* Logistics Analytics, Benchmarking, Supply Chain, OTIF.
+* **[Fiscal XML Data Pipeline](https://github.com/AbimaelBrilhante/xml-data-pipeline-py)**
+  * Python application that parses Brazilian NF-e/CT-e XML files, stores structured data in SQLite, and exports analytical results to Excel through a desktop interface.
+  * `Python` · `SQLite` · `XML` · `Pandas` · `Tkinter`
 
-* **[berlin-transit-qlik-analytics](https://github.com/AbimaelBrilhante/berlin-transit-qlik-analytics)**
-  * *Description:* Interactive mobility hub to analyze peak hour performance and route frequency in Berlin's transit network. Built with Qlik Sense.
-  * *Keywords:* Mobility Analytics, GTFS Data, Time-Series, Qlik Sense.
+### Qlik Sense & Business Analytics
+
+* **[Qlik Sense Data Architecture for ERP](https://github.com/AbimaelBrilhante/qlik-sense-data-architecture-erp)**
+  * Portfolio project demonstrating Qlik scripting, QVD layering, mapping techniques, master calendar logic, and associative data modeling for ERP-style datasets.
+  * `Qlik Sense` · `Data Modeling` · `ETL`
+
+* **[Logistics Performance & Freight Audit](https://github.com/AbimaelBrilhante/qlik-logistics-performance-benchmarking)**
+  * Qlik Sense dashboard for carrier benchmarking, freight-cost analysis, lead-time monitoring, and OTIF KPIs.
+  * `Qlik Sense` · `Star Schema` · `Set Analysis` · `Logistics Analytics`
+
+* **[Berlin Transit Performance Hub](https://github.com/AbimaelBrilhante/berlin-transit-qlik-analytics)**
+  * Qlik Sense portfolio project using Berlin-Brandenburg GTFS data to analyze route frequency, peak-hour activity, and multimodal transit patterns.
+  * `Qlik Sense` · `GTFS` · `Data Modeling` · `Mobility Analytics`
+
+---
+
+## Current Focus
+
+I am continuing to deepen my skills in **analytics engineering, data modeling, Snowflake, SQL, and modern data practices**, while building on the domain expertise I developed through years of tax and SAP-related work.
