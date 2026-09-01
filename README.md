@@ -15,7 +15,7 @@ My strongest area is the intersection of **Tax + SAP + Data**: understanding the
 * **Data & Querying:** `SQL`, `Snowflake`, `SQLite`, `Data Modeling`, `ETL/ELT`
 * **Programming & Automation:** `Python (Pandas, Requests, OpenPyXL, Tkinter)`, `VBA`, `REST APIs`
 * **ERP & Domain:** `SAP Data`, `Tax/Fiscal Processes`, `Accounting`, `Financial Data`, `UAT / Functional Validation`
-* **Analytics & BI:** `Qlik Sense`, `Qlik Scripting`, `KPIs`, `Dashboards`
+* **Analytics & BI:** `Qlik Sense`, `Qlik Scripting`, `KPIs`, `Dashboards`, `Data Studio`
 * **Learning / Personal Projects:** `dbt`, `Git/GitHub`
 
 ---
