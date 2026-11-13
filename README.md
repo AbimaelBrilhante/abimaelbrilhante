@@ -38,6 +38,10 @@ My strongest area is the intersection of **Tax + SAP + Data**: understanding the
   * Python pipeline for Receita Federal's CBS API, orchestrated with Apache Airflow and packaged with Docker. Includes asynchronous request tracking, ticket reuse, rate-limit handling, JSON validation, CSV consolidation, and automated tests.
   * `Python` · `Apache Airflow` · `Docker` · `SQLite` · `REST API` · `Tax Technology`
 
+* **[ICMS/ST Tax Credit Allocation Engine](https://github.com/AbimaelBrilhante/tax-fifo-engine)**
+  * Modular Python project for matching inbound and outbound invoices to support ICMS/ST tax reimbursement analysis. Separates configuration, data processing, and branch-specific fiscal rules, using Pandas and SQLite with Excel exports.
+  * `Python` · `Pandas` · `SQLite` · `ETL` · `Tax Technology`
+
 * **[SAP Financial Snapshot Engine](https://github.com/AbimaelBrilhante/snowflake-dynamic-financial-statements)**
   * Snowflake/SQL portfolio project that transforms SAP S/4HANA financial data into cumulative YTD balances using window functions and Dynamic Tables.
   * `Snowflake` · `SQL` · `SAP ACDOCA` · `Financial Data`
