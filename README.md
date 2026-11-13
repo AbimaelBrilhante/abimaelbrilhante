@@ -6,7 +6,7 @@ I am a data professional with a background that combines **Accounting**, **tax o
 
 My strongest area is the intersection of **Tax + SAP + Data**: understanding the business problem, identifying the relevant ERP data, building SQL transformations and analytical datasets, and delivering information through Snowflake, Python automation, and Qlik Sense.
 
-📍 **Based in Brazil | Open to relocation to Germany** 🇧🇷 ➡️ 🇩🇪
+📍 **Based in Brazil | Open to relocate** 🇧🇷
 
 ---
 
@@ -34,9 +34,9 @@ My strongest area is the intersection of **Tax + SAP + Data**: understanding the
 
 ### Tax, SAP & Analytics Engineering
 
-* **[Brazilian Tax Reform – CBS API Extractor](https://github.com/AbimaelBrilhante/rtc-cbs-extractor)**
-  * Python project for interacting with Receita Federal's tax-reform API workflow, including authentication, asynchronous requests, webhook-based processing, and JSON retrieval.
-  * `Python` · `REST API` · `Tax Technology`
+* **[CBS API Data Pipeline – Airflow & Docker](https://github.com/AbimaelBrilhante/cbs-api-airflow-pipeline)**
+  * Python pipeline for Receita Federal's CBS API, orchestrated with Apache Airflow and packaged with Docker. Includes asynchronous request tracking, ticket reuse, rate-limit handling, JSON validation, CSV consolidation, and automated tests.
+  * `Python` · `Apache Airflow` · `Docker` · `SQLite` · `REST API` · `Tax Technology`
 
 * **[SAP Financial Snapshot Engine](https://github.com/AbimaelBrilhante/snowflake-dynamic-financial-statements)**
   * Snowflake/SQL portfolio project that transforms SAP S/4HANA financial data into cumulative YTD balances using window functions and Dynamic Tables.
